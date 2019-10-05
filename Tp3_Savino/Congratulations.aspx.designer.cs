@@ -10,6 +10,6 @@
 namespace Tp3_Savino {
     
     
-    public partial class _Default {
+    public partial class Congratulations {
     }
 }
